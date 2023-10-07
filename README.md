@@ -7,7 +7,7 @@
 Before installing the program, you need to complete the following steps:
 
 
-- Download the source code from https://github.com/guochengqian/PointNeXt.
+- Download the source code.
 
 - Install it as its guide.
 
