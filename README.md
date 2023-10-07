@@ -1,8 +1,9 @@
-#Removing ring artifacts in CBCT images via Transformer
+# Removing ring artifacts in CBCT images via Transformer
 
-##Installation Guide
+## Installation Guide
 
-###Prerequisites
+### Prerequisites
+
 Before installing the program, you need to complete the following steps:
 
 
